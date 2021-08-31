@@ -119,7 +119,7 @@ exports[`components/StatusDropdown should match snapshot in default state 1`] = 
         accessibilityLabel="Account Settings"
         dialogProps={
           Object {
-            "isContentChannelPreferences": false,
+            "isContentProductSettings": false,
           }
         }
         dialogType={
@@ -350,7 +350,7 @@ exports[`components/StatusDropdown should match snapshot with custom status and 
         accessibilityLabel="Account Settings"
         dialogProps={
           Object {
-            "isContentChannelPreferences": false,
+            "isContentProductSettings": false,
           }
         }
         dialogType={
@@ -530,7 +530,7 @@ exports[`components/StatusDropdown should match snapshot with custom status enab
         accessibilityLabel="Account Settings"
         dialogProps={
           Object {
-            "isContentChannelPreferences": false,
+            "isContentProductSettings": false,
           }
         }
         dialogType={
@@ -710,7 +710,7 @@ exports[`components/StatusDropdown should match snapshot with custom status expi
         accessibilityLabel="Account Settings"
         dialogProps={
           Object {
-            "isContentChannelPreferences": false,
+            "isContentProductSettings": false,
           }
         }
         dialogType={
@@ -891,7 +891,7 @@ exports[`components/StatusDropdown should match snapshot with custom status puls
         accessibilityLabel="Account Settings"
         dialogProps={
           Object {
-            "isContentChannelPreferences": false,
+            "isContentProductSettings": false,
           }
         }
         dialogType={
@@ -1054,7 +1054,7 @@ exports[`components/StatusDropdown should match snapshot with profile picture UR
         accessibilityLabel="Account Settings"
         dialogProps={
           Object {
-            "isContentChannelPreferences": false,
+            "isContentProductSettings": false,
           }
         }
         dialogType={
@@ -1213,7 +1213,7 @@ exports[`components/StatusDropdown should match snapshot with status dropdown op
         accessibilityLabel="Account Settings"
         dialogProps={
           Object {
-            "isContentChannelPreferences": false,
+            "isContentProductSettings": false,
           }
         }
         dialogType={
